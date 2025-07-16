@@ -1,0 +1,10 @@
+.teaching-prcess {height: 445px;
+    width: 100vw;
+    display: flex;
+    padding: 100px 0;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    position: relative;
+}
